@@ -4,6 +4,7 @@
 Site conversor de moedas:
 - Real para Dólar
 - Real para Euro
+- Real para Bitcoin
 
 ## Tecnologias:
 
