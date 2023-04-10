@@ -26,5 +26,5 @@ Site conversor de moedas:
 </a>
 </div>
 
-<h3>Link Projeto:</h3> <a href="https://diegokraus.github.io/currency-converter/">Conversor de Moedas</a>
+
 
